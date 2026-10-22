@@ -1,0 +1,6 @@
+[submodule "vendor/strata"]
+	path = vendor/strata
+	url = https://github.com/Niko1221/Strata.git
+[submodule "vendor/polystrata"]
+	path = vendor/polystrata
+	url = https://github.com/VecSzn/PolyStrata.git
