@@ -1,0 +1,11 @@
+# AnyStrata Desktop install manifest for Windows
+# Lines: exe <name> sha256 <hash> size <bytes> version <version> platform windows-x86_64
+# portable: AnyStrata_0.2.3_portable.zip
+# AnyStrata_0.2.3_portable.zip
+# sha256 bacfcbd3c07ff92a36951c58ccc5778fa5ba6c08acd03de99ca31361582bf2df
+# size 74205121
+exe AnyStrata_0.2.3_x64-setup.exe
+sha256 7b8ff1623659f68036a79a7a7611253bba7ceaa12adbf07fd89fb55181dd0fc7
+size 74198592
+version 0.2.3
+platform windows-x86_64

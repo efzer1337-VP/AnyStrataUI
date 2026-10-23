@@ -1,0 +1,2 @@
+7b8ff1623659f68036a79a7a7611253bba7ceaa12adbf07fd89fb55181dd0fc7  AnyStrata_0.2.3_x64-setup.exe
+bacfcbd3c07ff92a36951c58ccc5778fa5ba6c08acd03de99ca31361582bf2df  AnyStrata_0.2.3_portable.zip
