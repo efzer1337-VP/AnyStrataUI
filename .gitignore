@@ -28,6 +28,19 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 
+# Repository-root junctions/symlinks (unify upstream single-repo layout for tests; not source)
+/setup.py
+/chat.py
+/strata.py
+/tools/
+/integrations/
+/strata_cli/
+/strata_control/
+/packaging/
+/apps/
+/build/desktop/
+/tests/
+
 # Tauri release artifacts (generated on build)
 build/polystrata-desktop/target/release/*.exe
 build/polystrata-desktop/target/release/*.app

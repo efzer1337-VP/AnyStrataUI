@@ -1,9 +1,9 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "Strata",
+  "productName": "AnyStrata",
   "identifier": "ai.strata.desktop",
   "build": {
-    "frontendDist": "../../host/dist"
+    "frontendDist": "../../polystrata-host/dist"
   },
   "app": {
     "withGlobalTauri": false,
@@ -28,11 +28,11 @@
     ],
     "category": "DeveloperTool",
     "shortDescription": "Local AI, tuned to one model.",
-    "longDescription": "Strata runs one local model, tuned to your machine. Desktop and Terminal share the same model inventory, profiles, runtime and agent sessions.",
+    "longDescription": "AnyStrata runs one local model, tuned to your machine. Desktop and Terminal share the same model inventory, profiles, runtime and agent sessions.",
     "resources": {
-      "../../host/dist": "host/dist",
-      "../../host/server": "host/server",
-      "../../host/package.json": "host/package.json",
+      "../../polystrata-host/dist": "host/dist",
+      "../../polystrata-host/server": "host/server",
+      "../../polystrata-host/package.json": "host/package.json",
       "resources/node": "node",
       "resources/control": "control",
       "resources/harness": "harness",
